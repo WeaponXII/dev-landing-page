@@ -78,7 +78,7 @@ main > .tagline {
 button {
     display: inline-block;
     border: none;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     margin: 0;
     text-decoration: none;
     background: #0069ed;
@@ -114,7 +114,7 @@ button:active {
 }
 input[type=email] {
   width: 120px;
-  padding: 2rem 1rem 0px 1rem;
+  padding: 1rem 0px 0px 1rem;
   margin: 8px 0;
   box-sizing: border-box;
 }
