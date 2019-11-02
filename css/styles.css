@@ -76,10 +76,10 @@ main > .tagline {
 	height: 2.65rem;
 }
 button {
-    display: inline-block
+    display: inline-block;
     border: none;
     padding: 1rem 1rem;
-    margin: 8px;
+    margin: 2px;
     text-decoration: none;
     background: #0069ed;
     color: #ffffff;
@@ -114,8 +114,8 @@ button:active {
 }
 input[type=email] {
   display: inline-block;
-  width: 5rem;
+  width: 10rem;
   padding: 1rem 0 0 1rem;
-  margin: 8px 0 0 8px ;
+  margin: 8px 0 0 2px ;
   box-sizing: border-box;
 }
