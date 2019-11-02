@@ -4,9 +4,15 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
+@media (min-width: 414px) {
+	html {
+		font-size: 10px;
+	}
+}
+
 @media (min-width: 576px) {
 	html {
-		font-size: 12px;
+		font-size: 14px;
 	}
 }
 
