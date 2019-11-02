@@ -115,7 +115,7 @@ button:active {
 input[type=email] {
   display: inline-block;
   width: 10rem;
-  padding: 1rem 0;
+  padding: 0 0;
   margin: 8px 0 0 2px ;
   box-sizing: border-box;
 }
