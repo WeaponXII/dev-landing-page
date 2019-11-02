@@ -69,7 +69,7 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
-main > .submit {
+.submit {
         display:inline-block;
         padding:0.35em 1.2em;
         border:0.1em solid #FFFFFF;
@@ -83,13 +83,7 @@ main > .submit {
         text-align:center;
         transition: all 0.2s;
 }
-main > .submit:hover {
+.submit:hover {
  color:#000000;
  background-color:#FFFFFF;
-}
-@media all and (max-width:30em){
- main > .submit {
-  display:block;
-  margin:0.4em auto;
- }
 }
