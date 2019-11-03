@@ -149,7 +149,8 @@ button:active {
 form {
   display: flex;
   flex-flow: row wrap;
-  position: sticky;
+  align-items: center;
+  position: absolute;
   bottom: 5%;
 }
 .input[type=email] {
