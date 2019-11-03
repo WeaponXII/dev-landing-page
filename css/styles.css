@@ -92,7 +92,7 @@ main {
 	font-weight: 150;
         text-align: left;
         position: absolute;
-        top: 20em;
+        top: 15em;
         left: 5%;
         color:white;
         padding-top:2em;
@@ -103,7 +103,7 @@ main {
 	font-weight: 150;
         text-align: right;
         position: absolute;
-        top: 25em;
+        top: 20em;
         right: 5%;
         padding-top: 2em;
         padding-bottom: 2em;
