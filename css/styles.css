@@ -152,12 +152,11 @@ form {
   flex-flow: row nowrap;
   align-items: center;
   position: sticky;
-  bottom: 2%;;
+  bottom: 2%;
 }
 .input[type=email] {
   display: inline-block;
   width: 9rem;
-  padding: 0 0;
   margin: 2px 0 0 2px ;
   box-sizing: border-box;
 }
