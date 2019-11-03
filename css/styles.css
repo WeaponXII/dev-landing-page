@@ -152,13 +152,13 @@ form {
   flex-flow: row wrap;
   align-items: center;
   position: absolute;
-  bottom: 1%;
+  bottom: 1em;
   padding:0 2em;
 }
 .input[type=email] {
   display: inline-block;
   width: 10rem;
   padding: 0 0;
-  margin: 8px 0 0 2px ;
+  margin: 2px 0 0 2px ;
   box-sizing: border-box;
 }
