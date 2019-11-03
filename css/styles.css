@@ -43,7 +43,7 @@ html {
 main {
 	display: flex;
 	flex-direction: column;
-	min-height: 120vh;
+	min-height: 110vh;
 	justify-content: center;
 	padding: 0 0px;
 	text-align: center;
@@ -150,7 +150,7 @@ button:active {
 
 form {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   align-items: center;
   position: fixed;
   bottom: 2%;
