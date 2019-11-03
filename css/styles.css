@@ -76,11 +76,20 @@ main {
 }
 .head2 {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 2em;
+	font-size: 3em;
+	font-weight: 500;
+        text-align: left;
+        position: absolute;
+        top: 0.8em;
+        left: 2%;
+}
+.head3 {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 2.75em;
 	font-weight: 400;
         text-align: left;
         position: absolute;
-        top: 0.6em;
+        top: 1em;
         left: 2%;
 }
 .intro {
