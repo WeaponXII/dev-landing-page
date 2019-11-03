@@ -189,13 +189,13 @@ form {
   align-items: center;
   position: absolute;
   top: 38em;
-  padding: 1em 1em;
+  padding: 1rem 1rem;
   font-size: 1em;
 }
 .input[type=email] {
   display: inline-block;
   width: 3.5em;
-  height:1.5em;
+  height:1.5rem;
   margin: 2em ;
   box-sizing: border-box;
 }
