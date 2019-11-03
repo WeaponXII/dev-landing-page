@@ -42,13 +42,13 @@ html {
 
 @media (min-width: 1200px) {
 	html {
-		font-size: 28px;
+		font-size: 32px;
 	}
 }
 
 @media (min-width: 1500px) {
 	html {
-		font-size: 32px;
+		font-size: 40px;
 	}
 }
 .icons-social i {
