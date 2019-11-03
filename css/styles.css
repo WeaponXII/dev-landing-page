@@ -149,7 +149,6 @@ button:active {
 form {
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
   position: sticky;
   bottom: 5%;
 }
