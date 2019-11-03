@@ -71,7 +71,7 @@ main {
 	font-weight: 600;
         text-align: left;
         position: absolute;
-        top: 3em;
+        top: 0.5em;
         left: 2%;
 }
 
@@ -82,7 +82,7 @@ main {
 	font-weight: 300;
         text-align: right;
         position: absolute;
-        top: 3.5em;
+        top: 2.5em;
         right: 30%;
         padding-bottom:5em;
 }
@@ -116,7 +116,7 @@ main {
         writing-mode: vertical-rl;
         text-orientation:upright;
         position: absolute;
-        top: 9em;
+        top: 2.5em;
         right:5%;
         text-align: left;
 }
@@ -174,7 +174,7 @@ form {
   position: sticky;
   top: 98%;
   padding-top: 3em;
-  font-size: 2.5rem;
+  font-size: 1em;
 }
 .input[type=email] {
   display: inline-block;
