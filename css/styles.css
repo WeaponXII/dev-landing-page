@@ -75,7 +75,7 @@ main {
 	font-weight: 150;
         text-align: left;
         position: absolute;
-        top: 80%;
+        top: 65%;
         left: 5%;
         color:white;
         padding-top:0.5em;
@@ -86,7 +86,7 @@ main {
 	font-weight: 150;
         text-align: right;
         position: absolute;
-        top: 90%;
+        top: 80%;
         right: 5%;
         padding-top: 1em;
         padding-bottom: 1em;
