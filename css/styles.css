@@ -146,7 +146,7 @@ button:active {
     transform: scale(0.99);
 }
 
-.form {
+form {
   display: flex;
   flex-flow: row wrap;
   position: absolute;
@@ -158,6 +158,4 @@ button:active {
   padding: 0 0;
   margin: 8px 0 0 2px ;
   box-sizing: border-box;
-  position: sticky;
-  bottom: 5%;
 }
