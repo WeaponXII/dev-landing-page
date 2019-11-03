@@ -154,7 +154,7 @@ form {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  position: relative;
+  position: sticky;
   top: 98%;
   padding-top: 3em;
 }
