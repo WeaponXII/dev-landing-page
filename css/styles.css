@@ -70,9 +70,9 @@ main {
 }
 
 .tagline {
-	font-size: 1.5rem;
-	margin: 1.5rem 0;
-	font-weight: 100;
+	font-size: 2.5rem;
+	margin: 0;
+	font-weight: 280;
         writing-mode: vertical-rl;
         text-orientation:upright;
         position: absolute;
