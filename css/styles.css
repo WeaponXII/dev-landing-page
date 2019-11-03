@@ -74,8 +74,15 @@ main {
         top: 0.5em;
         left: 2%;
 }
-
-
+.head2 {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 2em;
+	font-weight: 400;
+        text-align: left;
+        position: absolute;
+        top: 0.6em;
+        left: 2%;
+}
 .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 2em;
