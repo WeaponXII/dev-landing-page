@@ -131,7 +131,6 @@ button {
                 transform 150ms ease;
     -webkit-appearance: none;
     -moz-appearance: none;
-    float: right;
 }
 
 button:hover,
@@ -152,9 +151,8 @@ form {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  position: fixed;
-  bottom: 2%;
-  padding:0 10em;
+  position: sticky;
+  bottom: 2%;;
 }
 .input[type=email] {
   display: inline-block;
