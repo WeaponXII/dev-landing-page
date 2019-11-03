@@ -80,7 +80,7 @@ main {
 }
 .soon {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 2em;
+	font-size: 3em;
 	font-weight: 150;
         text-align: right;
         position: absolute;
@@ -159,4 +159,6 @@ form > input[type=email] {
   padding: 0 0;
   margin: 8px 0 0 2px ;
   box-sizing: border-box;
+  position: sticky;
+  bottom: 5%;
 }
