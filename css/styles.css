@@ -7,6 +7,9 @@ html {
         main {
                 min-height:280vmax;
         }
+       .soon {
+                top:88%;
+        }
 }
 @media (min-width: 250px) {
 	html {
