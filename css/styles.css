@@ -69,7 +69,7 @@ main {
         right: 30%;
 }
 
-main > .tagline {
+.tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
@@ -77,7 +77,7 @@ main > .tagline {
         text-orientation:upright;
         position: absolute;
         top:10%;
-        right:25%;
+        right:20%;
 }
 
 .icons-social i {
