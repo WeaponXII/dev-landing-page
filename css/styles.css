@@ -4,6 +4,11 @@ html {
 	font-family: 'Roboto', sans-serif;
 }
 
+@media (min-width: 250px) {
+	html {
+		font-size: 8px;
+	}
+}
 @media (min-width: 414px) {
 	html {
 		font-size: 12px;
