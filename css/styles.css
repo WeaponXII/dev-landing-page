@@ -78,7 +78,8 @@ main {
         text-orientation:upright;
         position: absolute;
         top:10%;
-        right:15%;
+        right:5%;
+        text-align: left;
 }
 
 .icons-social i {
