@@ -71,7 +71,7 @@ main {
 	font-weight: 600;
         text-align: left;
         position: absolute;
-        top: 5%;
+        top: 6em;
         left: 2%;
 }
 
@@ -82,7 +82,7 @@ main {
 	font-weight: 300;
         text-align: right;
         position: absolute;
-        top: 10%;
+        top: 9em;
         right: 30%;
         padding-bottom:5em;
 }
@@ -92,7 +92,7 @@ main {
 	font-weight: 150;
         text-align: left;
         position: absolute;
-        top: 65%;
+        top: 36em;
         left: 5%;
         color:white;
         padding-top:2em;
@@ -103,7 +103,7 @@ main {
 	font-weight: 150;
         text-align: right;
         position: absolute;
-        top: 80%;
+        top: 48em;
         right: 5%;
         padding-top: 2em;
         padding-bottom: 2em;
@@ -116,7 +116,7 @@ main {
         writing-mode: vertical-rl;
         text-orientation:upright;
         position: absolute;
-        top:10%;
+        top: 9em;
         right:5%;
         text-align: left;
 }
@@ -179,6 +179,7 @@ form {
 .input[type=email] {
   display: inline-block;
   width: 4em;
+  height:1.5em;
   margin: 2px 0 0 2px ;
   box-sizing: border-box;
 }
