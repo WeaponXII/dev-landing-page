@@ -74,7 +74,7 @@ main {
 	font-size: 2em;
 	font-weight: 150;
         text-align: left;
-        position: relative;
+        position: absolute;
         top: 80%;
         left: 5%;
         color:white;
@@ -85,7 +85,7 @@ main {
 	font-size: 3em;
 	font-weight: 150;
         text-align: right;
-        position: relative;
+        position: absolute;
         top: 90%;
         right: 5%;
         padding-top: 1em;
