@@ -5,7 +5,7 @@ html {
 }
 @media (screen and orientation:landscape) {
         main {
-                min-height:280vmax;
+                min-height:300vmax;
         }
        .soon {
                 top:88%;
