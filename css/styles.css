@@ -150,7 +150,7 @@ button:active {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
-  position: fixed;
+  position: sticky;
   bottom: 5%;
 }
 form > input[type=email] {
