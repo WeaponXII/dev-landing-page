@@ -3,7 +3,11 @@
 html {
 	font-family: 'Roboto', sans-serif;
 }
-
+@media (screen and orientation:landscape) {
+        main {
+                min-height:220vmax;
+        }
+}
 @media (min-width: 250px) {
 	html {
 		font-size: 8px;
