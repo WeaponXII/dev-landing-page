@@ -68,7 +68,25 @@ main {
         top: 10%;
         right: 30%;
 }
-
+.pitch {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 2em;
+	font-weight: 150;
+        text-align: left;
+        position: absolute;
+        top: 60%;
+        left: 5%;
+        colour:white;
+}
+.soon {
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 2em;
+	font-weight: 150;
+        text-align: right;
+        position: absolute;
+        top: 60%;
+        right: 5%;
+}
 .tagline {
         font-family: 'Reem Kufi', sans-serif;
 	font-size: 2.5rem;
