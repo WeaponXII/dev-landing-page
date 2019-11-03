@@ -65,8 +65,8 @@ main {
 	font-weight: 300;
         text-align: right;
         position: absolute;
-        top: 1rem;
-        right: 10%;
+        top: 10%;
+        right: 35%;
 }
 
 main > .tagline {
