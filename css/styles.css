@@ -195,9 +195,9 @@ form {
 .input[type=email] {
   display: inline-block;
   width: 3.5em;
-  height:1.5rem;
+  height:2rem;
   padding: 1rem 1rem;
   margin: 2em ;
-  font-size: 1em;
+  font-size: 1rem;
   box-sizing: border-box;
 }
