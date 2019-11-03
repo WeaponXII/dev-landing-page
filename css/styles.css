@@ -154,8 +154,8 @@ main {
 button {
     display: inline-block;
     border: none;
-    padding: 1rem 1rem;
-    margin: 2em;
+    padding: 0.5rem 0.5rem;
+    margin: 1em;
     text-decoration: none;
     background: #0069ed;
     color: #ffffff;
@@ -189,7 +189,7 @@ form {
   align-items: center;
   position: absolute;
   top: 38em;
-  padding: 1rem 1rem;
+  padding: 0.5rem 1rem;
   font-size: 1rem;
 }
 input[type=email] {
@@ -197,7 +197,7 @@ input[type=email] {
   width: 8em;
   height:2rem;
   padding: 0 1rem;
-  margin: 0.5em ;
+  margin: 0.25em ;
   font-size: 1rem;
   box-sizing: border-box;
 }
