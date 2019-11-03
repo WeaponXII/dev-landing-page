@@ -72,7 +72,7 @@ main {
         text-align: left;
         position: absolute;
         top: 0.5em;
-        left: 2%;
+        left: 0.1rem;
 }
 .head2 {
 	font-family: 'Reem Kufi', sans-serif;
@@ -81,7 +81,7 @@ main {
         text-align: left;
         position: absolute;
         top: 1.85em;
-        left: 2%;
+        left: 0.1rem;
 }
 .head3 {
 	font-family: 'Reem Kufi', sans-serif;
@@ -90,7 +90,7 @@ main {
         text-align: left;
         position: absolute;
         top: 3em;
-        left: 2%;
+        left: 0.1rem;
 }
 .intro {
 	font-family: 'Reem Kufi', sans-serif;
@@ -155,7 +155,7 @@ button {
     display: inline-block;
     border: none;
     padding: 0.5rem 0.5rem;
-    margin: 1em;
+    margin: 0.1em;
     text-decoration: none;
     background: #0069ed;
     color: #ffffff;
