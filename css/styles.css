@@ -67,6 +67,7 @@ main {
         position: absolute;
         top: 10%;
         right: 30%;
+        padding-bottom:1em;
 }
 .pitch {
 	font-family: 'Reem Kufi', sans-serif;
@@ -153,9 +154,9 @@ form {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  position: absolute;
+  position: relative;
   top: 98%;
-  padding-top: 2em;
+  padding-top: 3em;
 }
 .input[type=email] {
   display: inline-block;
