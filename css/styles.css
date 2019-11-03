@@ -65,8 +65,8 @@ main > .intro {
 	font-weight: 300;
         text-align: right;
         position: relative;
-        top: 8%;
-        right: 1%;
+        top: 5%;
+        right: 10%;
 }
 
 main > .tagline {
