@@ -150,7 +150,7 @@ button:active {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
-  position: relative;
+  position: fixed;
   bottom: 10%;
 }
 input[type=email] {
