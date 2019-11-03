@@ -60,7 +60,7 @@ html {
 main {
 	display: flex;
 	flex-direction: column;
-	min-height: 55em;
+	min-height: 62em;
 	justify-content: center;
 	padding: 0, 1em;
 	text-align: center;
