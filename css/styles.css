@@ -60,7 +60,7 @@ html {
 main {
 	display: flex;
 	flex-direction: column;
-	min-height: 40em;
+	min-height: 50em;
 	justify-content: center;
 	padding: 0, 1em;
 	text-align: center;
@@ -172,7 +172,7 @@ form {
   flex-flow: row nowrap;
   align-items: center;
   position: sticky;
-  top: 98%;
+  top: 35em;
   padding: 1rem 1rem;
   font-size: 1em;
 }
