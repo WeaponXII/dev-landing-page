@@ -151,9 +151,9 @@ form {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
-  position: absolute;
+  position: fixed;
   bottom: 2%;
-  padding:0 2em;
+  padding:0 10em;
 }
 .input[type=email] {
   display: inline-block;
