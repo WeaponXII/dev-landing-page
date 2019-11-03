@@ -60,7 +60,7 @@ html {
 main {
 	display: flex;
 	flex-direction: column;
-	min-height: 80em;
+	min-height: 60em;
 	justify-content: center;
 	padding: 0, 1em;
 	text-align: center;
@@ -78,7 +78,7 @@ main {
 
 .intro {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 2.70em;
+	font-size: 2em;
 	font-weight: 300;
         text-align: right;
         position: absolute;
@@ -88,7 +88,7 @@ main {
 }
 .pitch {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 2em;
+	font-size: 1.8em;
 	font-weight: 150;
         text-align: left;
         position: absolute;
@@ -99,7 +99,7 @@ main {
 }
 .soon {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 3em;
+	font-size: 1.6em;
 	font-weight: 150;
         text-align: right;
         position: absolute;
@@ -110,7 +110,7 @@ main {
 }
 .tagline {
         font-family: 'Reem Kufi', sans-serif;
-	font-size: 2.5rem;
+	font-size: 1.8em;
 	margin: 0;
 	font-weight: 280;
         writing-mode: vertical-rl;
@@ -178,7 +178,7 @@ form {
 }
 .input[type=email] {
   display: inline-block;
-  width: 9rem;
+  width: 4em;
   margin: 2px 0 0 2px ;
   box-sizing: border-box;
 }
