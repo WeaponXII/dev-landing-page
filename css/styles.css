@@ -173,7 +173,7 @@ form {
   align-items: center;
   position: absolute;
   top: 38em;
-  padding: 1rem 1rem;
+  padding: 1em 1em;
   font-size: 1em;
 }
 .input[type=email] {
