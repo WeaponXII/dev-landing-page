@@ -66,13 +66,18 @@ main {
         text-align: right;
         position: absolute;
         top: 10%;
-        right: 35%;
+        right: 30%;
 }
 
 main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+        writing-mode: vertical-rl;
+        text-orientation:upright;
+        position: absolute;
+        top:10%;
+        right:25%;
 }
 
 .icons-social i {
