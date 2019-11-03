@@ -54,7 +54,7 @@ main > .head {
 	font-weight: 600;
         text-align: left;
         position: absolute;
-        top: 8%;
+        top: 5%;
         left: 2%;
 }
 
@@ -65,7 +65,7 @@ main > .intro {
 	font-weight: 300;
         text-align: right;
         position: absolute;
-        top: 10%;
+        top: 8%;
         right: 1%;
 }
 
