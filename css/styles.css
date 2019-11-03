@@ -151,7 +151,7 @@ button:active {
   flex-flow: row wrap;
   align-items: center;
   position: fixed;
-  bottom: 10%;
+  bottom: 5%;
 }
 form > input[type=email] {
   display: inline-block;
