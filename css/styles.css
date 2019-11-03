@@ -76,7 +76,7 @@ main {
         position: absolute;
         top: 60%;
         left: 5%;
-        colour:white;
+        color:white;
 }
 .soon {
 	font-family: 'Reem Kufi', sans-serif;
@@ -84,7 +84,7 @@ main {
 	font-weight: 150;
         text-align: right;
         position: absolute;
-        top: 60%;
+        top: 75%;
         right: 5%;
 }
 .tagline {
@@ -150,6 +150,8 @@ button:active {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
+  position: relative;
+  bottom: 10%;
 }
 input[type=email] {
   display: inline-block;
