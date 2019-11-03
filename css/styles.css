@@ -131,6 +131,7 @@ button {
                 transform 150ms ease;
     -webkit-appearance: none;
     -moz-appearance: none;
+    float: right;
 }
 
 button:hover,
@@ -157,7 +158,7 @@ form {
 }
 .input[type=email] {
   display: inline-block;
-  width: 10rem;
+  width: 9rem;
   padding: 0 0;
   margin: 2px 0 0 2px ;
   box-sizing: border-box;
