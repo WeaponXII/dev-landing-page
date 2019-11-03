@@ -152,7 +152,7 @@ form {
   flex-flow: row wrap;
   align-items: center;
   position: absolute;
-  bottom: 0.2em;
+  bottom: 2%;
   padding:0 2em;
 }
 .input[type=email] {
