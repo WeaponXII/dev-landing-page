@@ -71,7 +71,7 @@ main {
 	font-weight: 600;
         text-align: left;
         position: absolute;
-        top: 6em;
+        top: 3em;
         left: 2%;
 }
 
@@ -82,7 +82,7 @@ main {
 	font-weight: 300;
         text-align: right;
         position: absolute;
-        top: 9em;
+        top: 3.5em;
         right: 30%;
         padding-bottom:5em;
 }
@@ -92,7 +92,7 @@ main {
 	font-weight: 150;
         text-align: left;
         position: absolute;
-        top: 36em;
+        top: 20em;
         left: 5%;
         color:white;
         padding-top:2em;
@@ -103,7 +103,7 @@ main {
 	font-weight: 150;
         text-align: right;
         position: absolute;
-        top: 48em;
+        top: 25em;
         right: 5%;
         padding-top: 2em;
         padding-bottom: 2em;
