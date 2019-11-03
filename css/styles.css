@@ -65,7 +65,7 @@ main > .intro {
 	font-weight: 300;
         text-align: right;
         position: relative;
-        top: 1%;
+        top: 1rem;
         right: 10%;
 }
 
